@@ -10,6 +10,5 @@ function Footer(props) {
    </div>
   )
 } 
-{/* we are making anonymous fn so that we can pass arguments into it */}
 
-export default Footer
+export default Footer;
